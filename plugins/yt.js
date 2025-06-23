@@ -1,6 +1,6 @@
 const axios = require("axios");
 module.exports = {
-  pattern: ".ytmp3",
+  pattern: ".yta",
   fromMe: false,
   desc: "Download YouTube audio",
   type: "downloader",
