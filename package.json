@@ -1,0 +1,9 @@
+{
+  "name": "bl-dragon-md",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "@whiskeysockets/baileys": "^6.6.0"
+  }
+}
